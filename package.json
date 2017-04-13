@@ -1,0 +1,25 @@
+{
+  "name": "helloworldjs",
+  "version": "1.0.0",
+  "description": "A simple Hello world npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flickz/hello-world-npm-package.git"
+  },
+  "keywords": [
+    "helloworld"
+  ],
+  "author": "Flickzcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flickz/hello-world-npm-package/issues"
+  },
+  "homepage": "https://github.com/flickz/hello-world-npm-package#readme",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
