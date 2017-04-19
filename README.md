@@ -1,14 +1,14 @@
-#helloworldjs
+# helloworldjs
 
 My first npm package. Just a module that allows you to print or get "Hello World" in different languages</p>
 
-##Install
+## Install
 ```
  npm install helloworldjs
 
 ```
 
-##Apis
+## Apis
 ```
   var greet = require('./helloworldjs');
 ```
