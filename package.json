@@ -1,6 +1,6 @@
 {
   "name": "helloworldjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple module that allows you to print or get 'Hello World' in any language",
   "main": "index.js",
   "scripts": {
