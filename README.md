@@ -10,7 +10,7 @@ My first npm package. Just a module that allows you to print or get "Hello World
 
 ## Apis
 ```
-  var greet = require('./helloworldjs');
+  var greet = require('helloworldjs');
 ```
 ```
    greet.greetCall('French'); // "Bonjour le monde"
